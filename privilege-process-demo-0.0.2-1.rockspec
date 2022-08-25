@@ -1,8 +1,8 @@
 package = "privilege-process-demo"
-version = "0.0.1-1"
+version = "0.0.2-1"
 source = {
    url = "git://github.com/zanehy/privilege-process-demo",
-   tag = "v0.0.1"
+   tag = "v0.0.2"
 }
 description = {
    summary = "Open the privileged process of openresty",
